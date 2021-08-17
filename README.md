@@ -8,7 +8,7 @@ Datasets used in the experments: <p>
 - *2D MRI dataset [1]* used in the code can be found under: https://zenodo.org/record/55345#.WvLINd8xBhF <p>
   (additional files for example code can be downloaded <a href="https://www.dropbox.com/sh/pibkzr8poz8lyau/AADRrlzczs6S2xg66_5fqQmBa?dl=0">here</a>)
 - *3D MRI dataset [2]* and *3D US dataset [3]* can be found under:<p>
-  [2] http://www.vision.ee.ethz.ch/en/datasets/ (4D MRI lung data) <p>
+  [2] https://bmic.ee.ethz.ch/research/datasets.html (4D MRI lung data) <p>
   [3] http://clust.ethz.ch/data.html <p>
 
 *[1]: CF Baumgartner, C Kolbitsch, JR McClelland, D Rueckert, AP King, Autoadaptive motion modelling for MR-based respiratory motion estimation, Medical Image Analysis (2016), http://dx.doi.org/10.1016/j.media.2016.06.005* <p>
